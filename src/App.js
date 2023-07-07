@@ -5,7 +5,7 @@ import './index.css'
 const App = () => {
   return (
     <div>
-      <h1 className='text-red-400'>List Difference Finder</h1>
+      <h1 className='text-blue-400 mx-auto w-full text-center mb-10 mt-6 font-semibold'>List Difference Finder</h1>
       <DifferenceFinder /> 
 
     </div>
